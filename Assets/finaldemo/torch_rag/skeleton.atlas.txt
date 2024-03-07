@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 86,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+swap_torch/swap_torch-0
+  rotate: false
+  xy: 2, 2
+  size: 82, 195
+  orig: 90, 203
+  offset: 4, 4
+  index: -1

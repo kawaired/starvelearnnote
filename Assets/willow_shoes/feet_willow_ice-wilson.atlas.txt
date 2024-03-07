@@ -1,0 +1,48 @@
+
+feet_willow_ice-wilson.png
+size: 198,34
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foot/foot-0
+  rotate: false
+  xy: 76, 4
+  size: 29, 28
+  orig: 37, 36
+  offset: 4, 4
+  index: -1
+foot/foot-1
+  rotate: true
+  xy: 2, 2
+  size: 30, 35
+  orig: 38, 43
+  offset: 4, 4
+  index: -1
+foot/foot-2
+  rotate: false
+  xy: 39, 2
+  size: 35, 30
+  orig: 43, 38
+  offset: 4, 4
+  index: -1
+foot/foot-3
+  rotate: true
+  xy: 138, 7
+  size: 25, 31
+  orig: 33, 39
+  offset: 4, 4
+  index: -1
+foot/foot-5
+  rotate: false
+  xy: 107, 5
+  size: 29, 27
+  orig: 37, 35
+  offset: 4, 4
+  index: -1
+foot/foot-6
+  rotate: false
+  xy: 171, 3
+  size: 25, 29
+  orig: 33, 37
+  offset: 4, 4
+  index: -1

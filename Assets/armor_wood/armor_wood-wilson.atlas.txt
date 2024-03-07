@@ -1,0 +1,34 @@
+
+armor_wood-wilson.png
+size: 222,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+swap_body/swap_body-0
+  rotate: true
+  xy: 2, 2
+  size: 81, 116
+  orig: 89, 124
+  offset: 4, 4
+  index: -1
+swap_body/swap_body-3
+  rotate: true
+  xy: 2, 85
+  size: 79, 116
+  orig: 87, 124
+  offset: 4, 4
+  index: -1
+swap_body/swap_body-6
+  rotate: true
+  xy: 120, 85
+  size: 79, 100
+  orig: 87, 108
+  offset: 4, 4
+  index: -1
+swap_body/swap_body-8
+  rotate: true
+  xy: 120, 2
+  size: 81, 100
+  orig: 89, 108
+  offset: 4, 4
+  index: -1

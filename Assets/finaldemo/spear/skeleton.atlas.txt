@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 78,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+swap_spear/swap_spear-0
+  rotate: false
+  xy: 2, 2
+  size: 74, 312
+  orig: 82, 320
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 203,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+swap_ham_bat/swap_ham_bat-0
+  rotate: false
+  xy: 2, 2
+  size: 199, 284
+  orig: 207, 292
+  offset: 4, 4
+  index: -1

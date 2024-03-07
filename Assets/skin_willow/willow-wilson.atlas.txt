@@ -1,0 +1,335 @@
+
+willow-wilson.png
+size: 1664,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_lower/arm_lower-0
+  rotate: true
+  xy: 466, 5
+  size: 16, 38
+  orig: 28, 52
+  offset: 6, 7
+  index: -1
+arm_lower/arm_lower-1
+  rotate: true
+  xy: 408, 3
+  size: 18, 56
+  orig: 32, 68
+  offset: 7, 6
+  index: -1
+arm_lower/arm_lower-2
+  rotate: true
+  xy: 1606, 47
+  size: 52, 27
+  orig: 64, 40
+  offset: 6, 6
+  index: -1
+arm_upper/arm_upper-0
+  rotate: false
+  xy: 935, 2
+  size: 28, 50
+  orig: 40, 64
+  offset: 6, 7
+  index: -1
+arm_upper/arm_upper-1
+  rotate: false
+  xy: 1007, 4
+  size: 29, 48
+  orig: 40, 60
+  offset: 5, 6
+  index: -1
+arm_upper/arm_upper-2
+  rotate: false
+  xy: 1038, 5
+  size: 28, 47
+  orig: 40, 60
+  offset: 6, 7
+  index: -1
+arm_upper_skin/arm_upper_skin-0
+  rotate: true
+  xy: 538, 6
+  size: 15, 52
+  orig: 28, 64
+  offset: 6, 6
+  index: -1
+face/face-0
+  rotate: false
+  xy: 1162, 3
+  size: 114, 86
+  orig: 128, 100
+  offset: 7, 7
+  index: -1
+face/face-4
+  rotate: false
+  xy: 1278, 5
+  size: 69, 84
+  orig: 80, 96
+  offset: 5, 6
+  index: -1
+foot/foot-0
+  rotate: true
+  xy: 1588, 11
+  size: 33, 22
+  orig: 44, 36
+  offset: 5, 7
+  index: -1
+foot/foot-1
+  rotate: true
+  xy: 1553, 101
+  size: 32, 26
+  orig: 44, 40
+  offset: 6, 7
+  index: -1
+foot/foot-2
+  rotate: true
+  xy: 1635, 74
+  size: 29, 20
+  orig: 40, 32
+  offset: 5, 6
+  index: -1
+foot/foot-3
+  rotate: false
+  xy: 1635, 48
+  size: 24, 24
+  orig: 36, 36
+  offset: 6, 6
+  index: -1
+foot/foot-5
+  rotate: false
+  xy: 506, 5
+  size: 30, 16
+  orig: 44, 28
+  offset: 7, 6
+  index: -1
+foot/foot-6
+  rotate: true
+  xy: 1612, 16
+  size: 29, 22
+  orig: 40, 36
+  offset: 5, 7
+  index: -1
+hairpigtails/hairpigtails-0
+  rotate: true
+  xy: 1145, 91
+  size: 128, 123
+  orig: 140, 136
+  offset: 6, 6
+  index: -1
+hairpigtails/hairpigtails-1
+  rotate: false
+  xy: 1395, 101
+  size: 114, 118
+  orig: 128, 128
+  offset: 7, 5
+  index: -1
+hairpigtails/hairpigtails-2
+  rotate: true
+  xy: 1270, 91
+  size: 128, 123
+  orig: 140, 136
+  offset: 6, 6
+  index: -1
+hand/hand-0
+  rotate: true
+  xy: 649, 2
+  size: 35, 32
+  orig: 48, 44
+  offset: 6, 6
+  index: -1
+hand/hand-1
+  rotate: true
+  xy: 965, 3
+  size: 49, 40
+  orig: 60, 52
+  offset: 5, 6
+  index: -1
+hand/hand-2
+  rotate: false
+  xy: 1511, 101
+  size: 40, 32
+  orig: 52, 44
+  offset: 6, 6
+  index: -1
+hand/hand-3
+  rotate: true
+  xy: 791, 2
+  size: 36, 32
+  orig: 48, 44
+  offset: 6, 6
+  index: -1
+hand/hand-4
+  rotate: true
+  xy: 1558, 46
+  size: 53, 46
+  orig: 64, 60
+  offset: 5, 7
+  index: -1
+hand/hand-5
+  rotate: true
+  xy: 1558, 4
+  size: 40, 28
+  orig: 52, 40
+  offset: 6, 6
+  index: -1
+headbase/headbase-0
+  rotate: true
+  xy: 916, 54
+  size: 165, 227
+  orig: 176, 240
+  offset: 5, 7
+  index: -1
+headbase/headbase-1
+  rotate: false
+  xy: 2, 7
+  size: 178, 212
+  orig: 192, 224
+  offset: 7, 6
+  index: -1
+headbase/headbase-2
+  rotate: true
+  xy: 182, 17
+  size: 202, 224
+  orig: 216, 236
+  offset: 7, 6
+  index: -1
+headbase_hat/headbase_hat-0
+  rotate: false
+  xy: 588, 39
+  size: 164, 180
+  orig: 176, 192
+  offset: 6, 6
+  index: -1
+headbase_hat/headbase_hat-1
+  rotate: false
+  xy: 754, 40
+  size: 160, 179
+  orig: 172, 192
+  offset: 6, 7
+  index: -1
+headbase_hat/headbase_hat-2
+  rotate: false
+  xy: 408, 23
+  size: 178, 196
+  orig: 192, 208
+  offset: 7, 6
+  index: -1
+leg/leg-0
+  rotate: true
+  xy: 182, 5
+  size: 10, 42
+  orig: 24, 56
+  offset: 7, 7
+  index: -1
+leg/leg-1
+  rotate: true
+  xy: 316, 8
+  size: 7, 42
+  orig: 20, 56
+  offset: 6, 6
+  index: -1
+leg/leg-2
+  rotate: true
+  xy: 270, 8
+  size: 7, 44
+  orig: 20, 56
+  offset: 6, 6
+  index: -1
+leg/leg-3
+  rotate: true
+  xy: 226, 5
+  size: 10, 42
+  orig: 20, 56
+  offset: 5, 7
+  index: -1
+leg/leg-4
+  rotate: false
+  xy: 1612, 105
+  size: 30, 30
+  orig: 44, 40
+  offset: 7, 5
+  index: -1
+leg/leg-6
+  rotate: false
+  xy: 1581, 101
+  size: 29, 34
+  orig: 44, 48
+  offset: 7, 7
+  index: -1
+leg/leg-7
+  rotate: false
+  xy: 1636, 18
+  size: 26, 28
+  orig: 36, 40
+  offset: 5, 6
+  index: -1
+skirt/skirt-0
+  rotate: true
+  xy: 1349, 5
+  size: 84, 46
+  orig: 96, 60
+  offset: 6, 7
+  index: -1
+skirt/skirt-1
+  rotate: true
+  xy: 1511, 135
+  size: 84, 46
+  orig: 96, 60
+  offset: 6, 7
+  index: -1
+skirt/skirt-2
+  rotate: false
+  xy: 1068, 6
+  size: 92, 46
+  orig: 104, 60
+  offset: 6, 7
+  index: -1
+skirt/skirt-3
+  rotate: false
+  xy: 683, 3
+  size: 106, 34
+  orig: 120, 48
+  offset: 7, 7
+  index: -1
+torso/torso-0
+  rotate: false
+  xy: 1559, 137
+  size: 80, 82
+  orig: 120, 96
+  offset: 9, 8
+  index: -1
+torso/torso-3
+  rotate: false
+  xy: 1478, 9
+  size: 78, 90
+  orig: 116, 100
+  offset: 7, 5
+  index: -1
+torso/torso-6
+  rotate: false
+  xy: 1397, 8
+  size: 79, 91
+  orig: 116, 100
+  offset: 7, 5
+  index: -1
+torso_pelvis/torso_pelvis-0
+  rotate: false
+  xy: 592, 2
+  size: 55, 35
+  orig: 72, 48
+  offset: 8, 7
+  index: -1
+torso_pelvis/torso_pelvis-3
+  rotate: false
+  xy: 825, 4
+  size: 53, 34
+  orig: 68, 48
+  offset: 7, 7
+  index: -1
+torso_pelvis/torso_pelvis-6
+  rotate: false
+  xy: 880, 4
+  size: 53, 34
+  orig: 68, 48
+  offset: 7, 8
+  index: -1
